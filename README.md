@@ -1,80 +1,80 @@
-**KMSAuto: Мощный активатор продуктов Microsoft**
+**KMSAuto: A Powerful Microsoft Product Activator**
 
-KMSAuto — это автоматический активатор для продуктов Microsoft, таких как Windows и Office, который использует протокол KMS (Key Management Service) для активации без необходимости покупки лицензии. С помощью одного клика KMSAuto активирует офисные пакеты, клиентские и серверные операционные системы, используя различные методы. Кроме того, инструмент позволяет устанавливать и удалять KMS-сервисы, автоматически проводить реактивацию и использовать собственные ключи.
+KMSAuto is an automatic activator for Microsoft products like Windows and Office, utilizing the KMS (Key Management Service) protocol for activation without the need for a paid license. With a single click, KMSAuto activates office suites, client, and server operating systems using various methods. Additionally, the tool allows for the installation and removal of KMS services, automatic reactivation, and applying custom keys.
 
-### Особенности KMSAuto
+### Features of KMSAuto
 
-KMSAuto предоставляет множество инструментов для администрирования, изменения редакции ОС и работы с ключами для следующих продуктов Microsoft:
+KMSAuto provides several tools for administration, changing the OS edition, and managing keys for the following Microsoft products:
 
-- **Windows Vista – 10, 11** (только редакции VL – Volume License)
+- **Windows Vista – 10, 11** (only VL – Volume License editions)
 - **Windows Server 2008 – 2016**
 - **Office 2010 – 2019**
 
-Пользователи сообщают, что хотя KMSAuto может испытывать трудности со взломом Windows 7 Ultimate, он успешно активирует Office 2021, хотя разработчик (Ratiborus) не подтверждает это официально.
+Users have reported that while KMSAuto may struggle with Windows 7 Ultimate, it successfully activates Office 2021, although the developer (Ratiborus) has not officially confirmed this.
 
-### Режимы активации KMSAuto
+### Activation Modes of KMSAuto
 
-KMSAuto работает в трёх основных режимах, которые доступны через вкладку «Главное окно»:
+KMSAuto operates in three primary modes, accessible through the “Main Window” tab:
 
-- **Активация**: Автоматически внедряет необходимые механизмы для прохождения проверки подлинности операционных систем или офисных программ. Инструмент последовательно применяет доступные методы до успешной активации. Также отображается информация о лицензии Windows/Office: название продукта, версия, идентификатор, IP-адрес компьютера, дата активации и периодичность реактивации.
+- **Activation**: Automatically injects the necessary mechanisms to pass the authenticity check of operating systems or office programs. It sequentially applies available cracking methods until successful activation. The tool also displays information about the Windows/Office license, including the product name, version, ID, computer IP address, activation date, and reactivation period.
   
-- **Ручная установка ключей**: Позволяет вручную вводить GVLK-ключи через графический интерфейс, что упрощает процесс даже для непрофессионалов. Можно удалять установленные ключи или добавлять собственные.
+- **Manual Key Installation**: Allows users to manually input GVLK keys via a graphical interface, simplifying the process even for non-technical users. Installed keys can be removed or custom keys added.
 
-- **Планировщик**: Настраивает задачи для автоматической реактивации. По умолчанию реактивация происходит каждые 10 дней (это можно изменить). Это гарантирует, что продукты остаются активированными, несмотря на периодические проверки от Microsoft.
+- **Scheduler**: This mode sets up automatic reactivation tasks, with the default set to every 10 days (modifiable). This ensures that products remain activated despite periodic checks by Microsoft.
 
-### Настройки
+### Settings
 
-Раздел настроек KMSAuto предназначен для опытных пользователей и включает следующие функции:
+The settings section of KMSAuto is designed for advanced users and includes features like:
 
-- Настройка параметров KMS-сервиса и используемых портов.
-- Восстановление ранее использованных IP-адресов.
-- Переключение языков интерфейса программы (доступны русский, украинский, китайский и английский).
-- Установка или удаление KMS-сервисов.
+- Adjusting KMS service parameters and ports.
+- Restoring previously used IP addresses.
+- Switching between available interface languages (Russian, Ukrainian, Chinese, and English).
+- Installing or removing KMS services.
 
-Также можно экспортировать логи в формате xlsx для дальнейшего анализа, изменить методы активации или установить автоматический режим для упрощения работы.
+Logs can also be exported in xlsx format for further analysis, and activation methods can be customized or set to automatic for ease of use.
 
-### Вкладка «Утилиты»
+### Utilities Tab
 
-KMSAuto предлагает различные административные инструменты для работы с Windows через вкладку «Утилиты»:
+KMSAuto offers various administrative tools for Windows through its "Utilities" tab:
 
-- **Службы**: Управление установленными системными службами.
-- **Планировщик**: Средство для создания и редактирования запланированных задач.
-- **Учётные записи**: Управление профилями пользователей.
-- **Просмотр событий**: Отображение системных журналов событий.
-- **Проверка системных файлов**: Проверяет подлинность системных файлов.
+- **Services**: Accesses the management of installed system services.
+- **Scheduler**: Launches the tool to create and edit scheduled tasks.
+- **User Accounts**: Allows the management of user profiles.
+- **Event Viewer**: Displays the system's event logs.
+- **System File Check**: Verifies the integrity of system files.
 
-KMSAuto также позволяет изменить редакцию ОС, что особенно полезно, когда ключ приобретён для одной версии Windows, а используется другая. В случае возникновения проблем с Microsoft Office пакет можно полностью удалить, включая ключи реестра и лицензии.
+KMSAuto also allows changing the OS edition, which is particularly useful when a license key is purchased for one version of Windows but another version is in use. If any issues arise with Microsoft Office, the package can be fully uninstalled, including registry keys and licenses.
 
-### Сравнение KMSAuto с аналогичными программами
+### Comparison of KMSAuto and Similar Tools
 
-Ниже представлена таблица сравнения KMSAuto с другими популярными активаторами продуктов Microsoft: **Re-Loader** и **Microsoft Toolkit**.
+Below is a comparison of KMSAuto with other popular Microsoft product activators: **Re-Loader** and **Microsoft Toolkit**.
 
-| Функция                        | KMSAuto                     | Re-Loader                  | Microsoft Toolkit           |
-|---------------------------------|------------------------------|----------------------------|-----------------------------|
-| **Поддерживаемые продукты**     | Windows, Office (множество версий) | Windows, Office (большинство версий) | Windows, Office (все версии) |
-| **Простота использования**      | Активация в один клик        | Простой интерфейс           | Средний уровень, требует настройки |
-| **Автоматическая реактивация**  | Да, с настраиваемым планировщиком | Нет                        | Да, требуется ручная настройка |
-| **Поддержка собственных ключей**| Да, ручная установка ключей  | Нет                        | Да, поддерживает ручные ключи   |
-| **Портативная версия**          | Да                           | Да                         | Да                         |
-| **Утилиты**                     | Включает инструменты для управления службами, задачами и системными файлами | Ограниченные утилиты        | Базовые утилиты           |
-| **Оффлайн активация**           | Да                           | Да                         | Да                         |
-| **Поддержка языков**            | Многоязычная поддержка        | Ограниченная поддержка языков | Только английский          |
-| **Дополнительные инструменты**  | Включает Defender, удаление Office, резервное копирование | Нет дополнительных инструментов | Базовые утилиты для проверки файлов |
-| **Плюсы**                       | Простота в использовании, автоматическая реактивация, множество инструментов для опытных пользователей | Лёгкий и простой интерфейс  | Поддержка онлайн и оффлайн активации, гибкость управления ключами |
-| **Минусы**                      | Сложные настройки могут запутать новичков | Нет дополнительных инструментов, отсутствие автоматической реактивации | Требует больше настроек, устаревший интерфейс |
+| Feature                      | KMSAuto                     | Re-Loader                  | Microsoft Toolkit           |
+|------------------------------|------------------------------|----------------------------|-----------------------------|
+| **Supported Products**        | Windows, Office (multiple versions) | Windows, Office (most versions) | Windows, Office (all versions) |
+| **Ease of Use**               | One-click activation         | Simple interface            | Intermediate, requires some setup |
+| **Automatic Reactivation**    | Yes, with a customizable scheduler | No                         | Yes, with manual setup      |
+| **Custom Key Support**        | Yes, manual key installation | No                          | Yes, supports manual keys   |
+| **Portable Version**          | Yes                          | Yes                         | Yes                         |
+| **Utility Tools**             | Includes tools for managing services, tasks, and system files | Limited utility tools       | Basic utility tools         |
+| **Offline Activation**        | Yes                          | Yes                         | Yes                         |
+| **Language Support**          | Multi-language support       | Limited language support    | English only                |
+| **Additional Tools**          | Includes Defender, Office uninstall, backup tools | No extra tools              | Basic file verification tools|
+| **Pros**                      | Easy to use, automatic reactivation, multiple tools for advanced users | Lightweight, simple interface | Supports both online and offline activation, flexible key management |
+| **Cons**                      | Advanced settings may confuse beginners | Lacks extra tools, no automatic reactivation | Requires more setup, outdated interface |
 
-### Дополнительные утилиты в KMSAuto++
+### Additional Utilities in KMSAuto++
 
-KMSAuto++ предлагает множество дополнительных полезных утилит, таких как:
+KMSAuto++ offers additional useful utilities such as:
 
-- **Microsoft Defender Tools**: Включает или отключает Защитник Windows и управляет исключениями.
-- **Uninstall Microsoft Office**: Полностью удаляет Office с системы.
-- **Show or Hide Updates**: Скрывает напоминания об обновлениях ОС или программного обеспечения.
-- **MSActBackUp**: Создаёт резервные копии и восстанавливает информацию о лицензиях, что позволяет повторно использовать лицензии после переустановки ОС.
-- **Activation by Telephone**: Имитация активации Windows/Office по телефону.
-- **Office 2013 – 2021 C2R Install Lite**: Скачивает и устанавливает различные версии Office (Business, ProPlus, Personal) с сайта Microsoft.
-- **Office Uninstaller**: Официальный инструмент Microsoft для полного удаления Office.
+- **Microsoft Defender Tools**: Enables/disables Windows Defender and manages exceptions.
+- **Uninstall Microsoft Office**: Completely removes Office from the system.
+- **Show or Hide Updates**: Hides reminders about OS or software updates.
+- **MSActBackUp**: Backs up and restores license information, making it easy to reuse licenses after OS reinstallation.
+- **Activation by Telephone**: Simulates Windows/Office activation via phone.
+- **Office 2013 – 2021 C2R Install Lite**: Downloads and installs various Office editions (Business, ProPlus, Personal) from Microsoft’s website.
+- **Office Uninstaller**: The official Microsoft tool for completely removing Office.
 
-### Заключение
+### Conclusion
 
-KMSAuto — это мощный и удобный инструмент для активации продуктов Microsoft. Поддержка различных версий Windows и Office, настраиваемые параметры и административные инструменты делают его отличным выбором как для новичков, так и для опытных пользователей. Инструмент регулярно обновляется, чтобы поддерживать новые версии серверных ОС и офисных пакетов, обеспечивая надёжную и безопасную активацию.
+KMSAuto is a robust and user-friendly tool for activating Microsoft products. With support for a wide range of Windows and Office versions, customizable settings, and a range of administrative tools, it provides a comprehensive solution for users looking to activate Microsoft products without purchasing a license. The tool is constantly updated to support newer versions of both server operating systems and Office suites, making it a reliable choice for both beginners and advanced users alike.
